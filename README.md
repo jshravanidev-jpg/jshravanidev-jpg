@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-jshravani.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/jshravanidev-jpg">
-    <img src="https://img.shields.io/badge/GitHub-Shravani2015-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-jshravanidev-jpg-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -195,5 +195,7 @@ I also have experience developing AI-enabled backend solutions using **LLM APIs,
 <p align="center">
   <strong>Senior Java Developer focused on scalable backend systems, enterprise modernization, cloud-native engineering, and AI-enabled applications.</strong>
 </p>
+
+
 
 
